@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class MovePlayer : MonoBehaviour
@@ -15,6 +16,9 @@ public class MovePlayer : MonoBehaviour
     public float moveSpeed = 10;
     public KeyCode leftKey, rightKey, upKey, downKey, fire;
     Vector2 facingDir = Vector2.zero;
+    bool onCooldown = false;
+    public GameObject mine;
+    public float plantOffset = 1.5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -29,7 +33,7 @@ public class MovePlayer : MonoBehaviour
                 fire = KeyCode.LeftShift;
                 break;
             case Role.Trapper:
-                fire = KeyCode.Keypad0;
+                fire = KeyCode.RightShift;
                 break;
         }
     }
@@ -66,37 +70,56 @@ public class MovePlayer : MonoBehaviour
         //Determines facing direction based on the direction the player is moving. If they're not moving, it uses the previous direction
         if (rb2d.linearVelocity != Vector2.zero)
         {
-            facingDir = rb2d.linearVelocity;
+            facingDir = rb2d.linearVelocity.normalized;
+            Debug.Log(facingDir);
         }
         if (Input.GetKey(fire))
         {
             switch (playerRole)
             {
                 case Role.Gunner:
-                    Shoot();
+                    if (!onCooldown)
+                    {
+                        StartCoroutine(Shoot());
+                    }
                     break;
                 case Role.Trapper:
-                    SetTrap();
+                    if (!onCooldown)
+                    {
+                        StartCoroutine(SetTrap());
+                    }
                     break;
             }
         }
 
     }
-    void Shoot()
+    IEnumerator Shoot()
     {
+        onCooldown = true;
         //Creates a line starting at the player's position, in the direction they're facing. If it hits the other player, it destroys them.
         RaycastHit2D hit = Physics2D.Raycast(transform.position, facingDir);
         Debug.DrawRay(transform.position, facingDir);
+        Debug.Log("Firing");
         if (hit.transform.gameObject.tag == "Trapper"/*GetComponent<MovePlayer>().playerRole==Role.Trapper*/)
         {
             Debug.Log("Hit");
             hit.transform.gameObject.GetComponent<MovePlayer>().SelfDestruct();
+        } 
+        else
+        {
+            Debug.Log("Reloading");
         }
-
+        yield return new WaitForSeconds(0.5f);
+        onCooldown = false;
     }
-    void SetTrap()
+    IEnumerator SetTrap()
     {
-        Debug.Log("Setting Trap");
+        onCooldown = true;
+        Debug.Log("Planting Trap");
+        Vector2 plantSpot = new Vector2(transform.position.x, transform.position.y) + (facingDir * plantOffset);
+        yield return new WaitForSeconds(5);
+        Instantiate(mine, transform.position, transform.rotation);
+        onCooldown = false;
     }
 
     void SelfDestruct()
