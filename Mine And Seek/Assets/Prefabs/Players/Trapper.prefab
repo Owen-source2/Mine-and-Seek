@@ -151,8 +151,8 @@ GameObject:
   - component: {fileID: 5277515490907633906}
   - component: {fileID: 2415867451911662027}
   m_Layer: 0
-  m_Name: Player2
-  m_TagString: Untagged
+  m_Name: Trapper
+  m_TagString: Trapper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -240,11 +240,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de0c047d2593c854fb9e23ded9ea9587, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerRole: 1
   moveSpeed: 10
   leftKey: 276
   rightKey: 275
   upKey: 273
   downKey: 274
+  fire: 0
 --- !u!50 &5277515490907633906
 Rigidbody2D:
   serializedVersion: 5

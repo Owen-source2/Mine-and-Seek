@@ -14,8 +14,8 @@ GameObject:
   - component: {fileID: 9141155545550017493}
   - component: {fileID: 3858825605097911535}
   m_Layer: 0
-  m_Name: Player1
-  m_TagString: Untagged
+  m_Name: Gunner
+  m_TagString: Gunner
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -103,11 +103,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de0c047d2593c854fb9e23ded9ea9587, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerRole: 0
   moveSpeed: 10
   leftKey: 97
   rightKey: 100
   upKey: 119
   downKey: 115
+  fire: 0
 --- !u!50 &9141155545550017493
 Rigidbody2D:
   serializedVersion: 5
