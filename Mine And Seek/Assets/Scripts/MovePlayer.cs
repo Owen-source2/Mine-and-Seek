@@ -15,17 +15,22 @@ public class MovePlayer : MonoBehaviour
     private float ySpeed = 0;
     public float moveSpeed = 10;
     public KeyCode leftKey, rightKey, upKey, downKey, fire;
-    Vector2 facingDir = Vector2.zero;
+    Vector2 facingDir = Vector2.right;
     bool onCooldown = false;
     public GameObject mine;
     public GameObject bullet;
     public float plantOffset = 1.5f;
     [SerializeField] float bulletSpeed = 150f;
+    [SerializeField] float plantTime;
+    [SerializeField] float reloadTime;
+    GameObject gameManager;
+    UI_Manager uiManager;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        gameManager = GameObject.Find("GameManager");
+        uiManager = GameObject.Find("UIManager").GetComponent<UI_Manager>();
         //Grab the Rigidbody component
         rb2d = GetComponent<Rigidbody2D>();
         //Select fire button based on role
@@ -99,22 +104,20 @@ public class MovePlayer : MonoBehaviour
         onCooldown = true;
         //Creates a bullet a little in front of player, then speeds it up by bulletSpeed;
         Vector2 plantSpot = new Vector2(transform.position.x, transform.position.y) + (facingDir * plantOffset);
-        GameObject bullet = Instantiate(mine, plantSpot, transform.rotation);
-        bullet.GetComponent<Rigidbody2D>().AddForce(facingDir * bulletSpeed);
-        yield return new WaitForSeconds(0.5f);
+        GameObject bulletNew = Instantiate(bullet, plantSpot, transform.rotation);
+        bulletNew.GetComponent<Rigidbody2D>().AddForce(facingDir * bulletSpeed);
+        yield return new WaitForSeconds(reloadTime);
         onCooldown = false;
     }
     IEnumerator SetTrap()
     {
         onCooldown = true;
+        uiManager.currentPlantCooldown = plantTime;
         Debug.Log("Planting Trap");
         Vector2 plantSpot = new Vector2(transform.position.x, transform.position.y) + (facingDir * plantOffset);
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(plantTime);
         Instantiate(mine, plantSpot, transform.rotation);
         onCooldown = false;
-    }
-    void ShootProj()
-    {
     }
 
     void SelfDestruct()

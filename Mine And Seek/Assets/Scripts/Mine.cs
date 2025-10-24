@@ -19,6 +19,8 @@ public class Mine : MonoBehaviour
         {
             Destroy(collision.gameObject);
         }
+        Debug.Log("Destroyed Target");
         Destroy(gameObject);
+        Debug.Log("Destroyed Self");
     }
 }
