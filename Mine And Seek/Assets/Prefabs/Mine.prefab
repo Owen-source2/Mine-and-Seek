@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4301066320273436143}
   - component: {fileID: 4066764863213500932}
   - component: {fileID: 630848448970693040}
+  - component: {fileID: 2232916138096558024}
   m_Layer: 0
   m_Name: Mine
   m_TagString: Untagged
@@ -137,3 +138,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 260851f62cbb9cf4f901d6bf86a2c627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!50 &2232916138096558024
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7482778669241106542}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
