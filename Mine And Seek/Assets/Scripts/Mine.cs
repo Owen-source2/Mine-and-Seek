@@ -15,7 +15,10 @@ public class Mine : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
-        Destroy(collision.gameObject);
+        if(collision.gameObject.GetComponent<MovePlayer>())
+        {
+            Destroy(collision.gameObject);
+        }
         Destroy(gameObject);
     }
 }
