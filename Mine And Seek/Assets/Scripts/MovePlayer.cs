@@ -18,7 +18,9 @@ public class MovePlayer : MonoBehaviour
     Vector2 facingDir = Vector2.zero;
     bool onCooldown = false;
     public GameObject mine;
+    public GameObject bullet;
     public float plantOffset = 1.5f;
+    [SerializeField] float bulletSpeed = 150f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -71,7 +73,6 @@ public class MovePlayer : MonoBehaviour
         if (rb2d.linearVelocity != Vector2.zero)
         {
             facingDir = rb2d.linearVelocity.normalized;
-            Debug.Log(facingDir);
         }
         if (Input.GetKey(fire))
         {
@@ -96,19 +97,10 @@ public class MovePlayer : MonoBehaviour
     IEnumerator Shoot()
     {
         onCooldown = true;
-        //Creates a line starting at the player's position, in the direction they're facing. If it hits the other player, it destroys them.
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, facingDir);
-        Debug.DrawRay(transform.position, facingDir);
-        Debug.Log("Firing");
-        if (hit.transform.gameObject.tag == "Trapper"/*GetComponent<MovePlayer>().playerRole==Role.Trapper*/)
-        {
-            Debug.Log("Hit");
-            hit.transform.gameObject.GetComponent<MovePlayer>().SelfDestruct();
-        } 
-        else
-        {
-            Debug.Log("Reloading");
-        }
+        //Creates a bullet a little in front of player, then speeds it up by bulletSpeed;
+        Vector2 plantSpot = new Vector2(transform.position.x, transform.position.y) + (facingDir * plantOffset);
+        GameObject bullet = Instantiate(mine, plantSpot, transform.rotation);
+        bullet.GetComponent<Rigidbody2D>().AddForce(facingDir * bulletSpeed);
         yield return new WaitForSeconds(0.5f);
         onCooldown = false;
     }
@@ -118,8 +110,11 @@ public class MovePlayer : MonoBehaviour
         Debug.Log("Planting Trap");
         Vector2 plantSpot = new Vector2(transform.position.x, transform.position.y) + (facingDir * plantOffset);
         yield return new WaitForSeconds(5);
-        Instantiate(mine, transform.position, transform.rotation);
+        Instantiate(mine, plantSpot, transform.rotation);
         onCooldown = false;
+    }
+    void ShootProj()
+    {
     }
 
     void SelfDestruct()
