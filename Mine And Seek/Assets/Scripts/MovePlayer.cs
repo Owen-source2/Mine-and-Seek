@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class MovePlayer : MonoBehaviour
 {
@@ -25,7 +26,7 @@ public class MovePlayer : MonoBehaviour
     [SerializeField] float reloadTime;
     GameObject gameManager;
     UI_Manager uiManager;
-
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -106,6 +107,7 @@ public class MovePlayer : MonoBehaviour
         Vector2 plantSpot = new Vector2(transform.position.x, transform.position.y) + (facingDir * plantOffset);
         GameObject bulletNew = Instantiate(bullet, plantSpot, transform.rotation);
         bulletNew.GetComponent<Rigidbody2D>().AddForce(facingDir * bulletSpeed);
+        //Prevents another shot until cooldown passes
         yield return new WaitForSeconds(reloadTime);
         onCooldown = false;
     }
@@ -113,6 +115,7 @@ public class MovePlayer : MonoBehaviour
     {
         onCooldown = true;
         uiManager.currentPlantCooldown = plantTime;
+        uiManager.StartCooldowm();
         Debug.Log("Planting Trap");
         Vector2 plantSpot = new Vector2(transform.position.x, transform.position.y) + (facingDir * plantOffset);
         yield return new WaitForSeconds(plantTime);

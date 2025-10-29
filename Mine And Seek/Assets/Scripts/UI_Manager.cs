@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class UI_Manager : MonoBehaviour
 {
     public TMP_Text plantCooldown;
+    public TMP_Asset cooldownPanel;
     public float currentPlantCooldown;
     public enum eventType
     {
@@ -17,7 +18,7 @@ public class UI_Manager : MonoBehaviour
     {
         plantCooldown.text = currentPlantCooldown.ToString();
         //Call Count Down Timer after 1 second and then every second after that
-        InvokeRepeating("ShowCooldown", 1, 1);
+        
     }
 
     // Update is called once per frame
@@ -25,7 +26,11 @@ public class UI_Manager : MonoBehaviour
     {
 
     }
-    public void ShowCooldown(float cooldown)
+    public void StartCooldowm()
+    {
+        InvokeRepeating("ShowCooldown", 1, 1);
+    }
+    public void ShowCooldown()
     {
         currentPlantCooldown--;
         if (currentPlantCooldown == 0)
