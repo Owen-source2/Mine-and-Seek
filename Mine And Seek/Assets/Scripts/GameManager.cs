@@ -1,6 +1,6 @@
 using UnityEngine;
 using TMPro;
-
+using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public TextMeshProUGUI timerText;
@@ -28,5 +28,9 @@ public class GameManager : MonoBehaviour
             CancelInvoke();
         }
         timerText.text = timerCount.ToString();
+    }
+    public void Reset()
+    {
+        SceneManager.LoadScene(0);
     }
 }
