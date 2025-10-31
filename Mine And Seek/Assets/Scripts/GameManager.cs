@@ -5,31 +5,38 @@ using System.Collections;
 public class GameManager : MonoBehaviour
 {
     public TextMeshProUGUI timerText;
+    public TMP_Text winner;
     public int timerCount = 0;
+    public GameObject resetButton;
+    GameObject trapper;
+    GameObject gunner;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        timerText.text = timerCount.ToString();
-        //Call Count Down Timer after 1 second and then every second after that
-        InvokeRepeating("CountDownTimer", 1, 1);
+        winner.SetText("");
+        trapper=GameObject.Find("Trapper");
+        gunner=GameObject.Find("Gunner");
+
     }
 
     // Update is called once per frame
     void Update()
     {
-
-    }
-
-    private void CountDownTimer()
-    {
-        timerCount--;
-        if (timerCount == 0)
+        if(!trapper||!gunner)
         {
-            print("Time Out");
-            CancelInvoke();
+            if(!trapper)
+            {
+                winner.SetText("Gunner Wins!");
+            }
+            else
+            {
+                winner.SetText("Trapper Wins!");
+            }
+            resetButton.SetActive(true);
         }
-        timerText.text = timerCount.ToString();
     }
+
+
     public void Reset()
     {
         SceneManager.LoadScene(0);

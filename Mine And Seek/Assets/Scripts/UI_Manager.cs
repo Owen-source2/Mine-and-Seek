@@ -18,7 +18,7 @@ public class UI_Manager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        plantCooldown.text = currentPlantCooldown.ToString();
+        plantCooldown.SetText(currentPlantCooldown.ToString());
         //Call Count Down Timer after 1 second and then every second after that
         
     }
