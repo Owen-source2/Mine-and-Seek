@@ -21,11 +21,12 @@ public class MovePlayer : MonoBehaviour
     public GameObject mine;
     public GameObject bullet;
     public float plantOffset = 1.5f;
-    [SerializeField] float bulletSpeed = 150f;
+    [SerializeField] float bulletSpeed = 150f; 
     [SerializeField] float plantTime;
     [SerializeField] float reloadTime;
     GameObject gameManager;
     UI_Manager uiManager;
+    bool canMove = true;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -74,7 +75,10 @@ public class MovePlayer : MonoBehaviour
         {
             ySpeed = 0;
         }
-        rb2d.linearVelocity = new Vector2(xSpeed, ySpeed);
+        if(canMove)
+        {
+            rb2d.linearVelocity = new Vector2(xSpeed, ySpeed);
+        }
         //Determines facing direction based on the direction the player is moving. If they're not moving, it uses the previous direction
         if (rb2d.linearVelocity != Vector2.zero)
         {
@@ -118,8 +122,10 @@ public class MovePlayer : MonoBehaviour
         uiManager.StartCooldowm();
         Debug.Log("Planting Trap");
         Vector2 plantSpot = new Vector2(transform.position.x, transform.position.y) + (facingDir * plantOffset);
+        canMove=false;
         yield return new WaitForSeconds(plantTime);
         Instantiate(mine, plantSpot, transform.rotation);
+        canMove=true;
         onCooldown = false;
     }
 

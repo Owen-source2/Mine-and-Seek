@@ -8,6 +8,8 @@ public class UI_Manager : MonoBehaviour
     public TMP_Text plantCooldown;
     public TMP_Asset cooldownPanel;
     public float currentPlantCooldown;
+    public bool planting=false;
+    public bool reloading=false;
     public enum eventType
     {
         StartGame,
@@ -24,7 +26,10 @@ public class UI_Manager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if(planting)
+        {
+            plantCooldown.SetText(currentPlantCooldown.ToString());
+        }
     }
     public void StartCooldowm()
     {

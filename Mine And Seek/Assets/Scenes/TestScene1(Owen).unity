@@ -250,9 +250,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a48ab806b8dd25b72ac4af9d16711d0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  plantCooldown: {fileID: 1424815110}
+  plantCooldown: {fileID: 558113332}
   cooldownPanel: {fileID: 0}
   currentPlantCooldown: 0
+  planting: 0
+  reloading: 0
 --- !u!4 &196316208
 Transform:
   m_ObjectHideFlags: 0
@@ -844,7 +846,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &558113331
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2082,7 +2084,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1419772654
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2343,7 +2345,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9092291533282667921, guid: fce605a8e0e351a499a2a9ed29a3fa8d, type: 3}
       propertyPath: m_Name
-      value: Player2
+      value: Trapper
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2487,7 +2489,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3609836254616349437, guid: d639a9aa7720f544eb2ae2f40eb37321, type: 3}
       propertyPath: m_Name
-      value: Player1
+      value: Gunner
       objectReference: {fileID: 0}
     - target: {fileID: 5589595356606136272, guid: d639a9aa7720f544eb2ae2f40eb37321, type: 3}
       propertyPath: mine
