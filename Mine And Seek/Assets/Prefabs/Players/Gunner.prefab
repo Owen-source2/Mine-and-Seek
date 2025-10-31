@@ -104,12 +104,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerRole: 0
-  moveSpeed: 10
+  moveSpeed: 8
   leftKey: 97
   rightKey: 100
   upKey: 119
   downKey: 115
   fire: 0
+  mine: {fileID: 7482778669241106542, guid: 84e9fbd76bdc26c46bc58dff43cab64e, type: 3}
+  bullet: {fileID: 8722180274604801152, guid: eaa59f8043b8afba3b79c450604d5243, type: 3}
+  plantOffset: 1.5
+  bulletSpeed: 500
+  plantTime: 0
+  reloadTime: 0.05
 --- !u!50 &9141155545550017493
 Rigidbody2D:
   serializedVersion: 5
