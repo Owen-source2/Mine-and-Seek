@@ -1,229 +1,229 @@
 fileFormatVersion: 2
-guid: a91a6eaf59988987ba14fe483ad3d995
+guid: 49f89887bdfef4894b9e9f9ac4d0f1c5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6418504327683073351
-    second: factory_tileset_0
+      213: -16057277195974114
+    second: factory_tileset 2_0
   - first:
-      213: 1238424644797721084
-    second: factory_tileset_1
+      213: 2783709193814545686
+    second: factory_tileset 2_1
   - first:
-      213: 8545507763443907490
-    second: factory_tileset_2
+      213: -4223715580388715170
+    second: factory_tileset 2_2
   - first:
-      213: 3531957566796094289
-    second: factory_tileset_3
+      213: -1574625170342681054
+    second: factory_tileset 2_3
   - first:
-      213: 570985690507859175
-    second: factory_tileset_4
+      213: -5914864842343547938
+    second: factory_tileset 2_4
   - first:
-      213: 4497256034185215711
-    second: factory_tileset_5
+      213: 8673415509838408529
+    second: factory_tileset 2_5
   - first:
-      213: 3200603885020271561
-    second: factory_tileset_6
+      213: 1007533232091491104
+    second: factory_tileset 2_6
   - first:
-      213: 599214841933149536
-    second: factory_tileset_7
+      213: -6506861636060592960
+    second: factory_tileset 2_7
   - first:
-      213: 7958481312716177226
-    second: factory_tileset_8
+      213: -732273314272232385
+    second: factory_tileset 2_8
   - first:
-      213: -770210306031644226
-    second: factory_tileset_9
+      213: 57697260778425843
+    second: factory_tileset 2_9
   - first:
-      213: 1971581139919492533
-    second: factory_tileset_10
+      213: -8116665719913022030
+    second: factory_tileset 2_10
   - first:
-      213: -4635757707438124649
-    second: factory_tileset_11
+      213: 2938945025230472613
+    second: factory_tileset 2_11
   - first:
-      213: 3502809852475407836
-    second: factory_tileset_12
+      213: -8006623138629756040
+    second: factory_tileset 2_12
   - first:
-      213: -7968720921196926859
-    second: factory_tileset_13
+      213: -9093560637573776258
+    second: factory_tileset 2_13
   - first:
-      213: -62439376527792202
-    second: factory_tileset_14
+      213: 3036318082082244543
+    second: factory_tileset 2_14
   - first:
-      213: -4347382197633898841
-    second: factory_tileset_15
+      213: -4448966297407517191
+    second: factory_tileset 2_15
   - first:
-      213: -5008986828380269688
-    second: factory_tileset_16
+      213: 8617715312631546485
+    second: factory_tileset 2_16
   - first:
-      213: 3782787971305359299
-    second: factory_tileset_17
+      213: 8233909996093016513
+    second: factory_tileset 2_17
   - first:
-      213: 5012242383902598290
-    second: factory_tileset_18
+      213: -4045016660065295188
+    second: factory_tileset 2_18
   - first:
-      213: -3012502838358261772
-    second: factory_tileset_19
+      213: 4382388034545189967
+    second: factory_tileset 2_19
   - first:
-      213: 5138177479479631071
-    second: factory_tileset_20
+      213: 7109469383461617919
+    second: factory_tileset 2_20
   - first:
-      213: 4570080496872918825
-    second: factory_tileset_21
+      213: 2859828689451976700
+    second: factory_tileset 2_21
   - first:
-      213: 539329058274245918
-    second: factory_tileset_22
+      213: 9089350163608145855
+    second: factory_tileset 2_22
   - first:
-      213: 94074825698585494
-    second: factory_tileset_23
+      213: -4046292894630332967
+    second: factory_tileset 2_23
   - first:
-      213: -2676749838634592700
-    second: factory_tileset_24
+      213: -6437032624116178891
+    second: factory_tileset 2_24
   - first:
-      213: -2960390429419183960
-    second: factory_tileset_25
+      213: 2940339407162987864
+    second: factory_tileset 2_25
   - first:
-      213: -3483929786695703998
-    second: factory_tileset_26
+      213: 5996216538462753414
+    second: factory_tileset 2_26
   - first:
-      213: -7433505351472792986
-    second: factory_tileset_27
+      213: -4686969847646606902
+    second: factory_tileset 2_27
   - first:
-      213: -3431907391916153954
-    second: factory_tileset_28
+      213: 2053701659332946952
+    second: factory_tileset 2_28
   - first:
-      213: -5344667080271102114
-    second: factory_tileset_29
+      213: -5250679241780127199
+    second: factory_tileset 2_29
   - first:
-      213: 1789866275096528117
-    second: factory_tileset_30
+      213: 2237178049036974807
+    second: factory_tileset 2_30
   - first:
-      213: -7637018538954241338
-    second: factory_tileset_31
+      213: -4078949760123663953
+    second: factory_tileset 2_31
   - first:
-      213: -5633772587417972653
-    second: factory_tileset_32
+      213: 6722965707376334041
+    second: factory_tileset 2_32
   - first:
-      213: -5404727997016242918
-    second: factory_tileset_33
+      213: -1854595177894805666
+    second: factory_tileset 2_33
   - first:
-      213: 2074896809369712119
-    second: factory_tileset_34
+      213: -4360449034493490710
+    second: factory_tileset 2_34
   - first:
-      213: -5570816810539610490
-    second: factory_tileset_35
+      213: 288406076582072661
+    second: factory_tileset 2_35
   - first:
-      213: -8339421757748481226
-    second: factory_tileset_36
+      213: -1247881292374879799
+    second: factory_tileset 2_36
   - first:
-      213: -5900994873468594656
-    second: factory_tileset_37
+      213: 6900693610648086902
+    second: factory_tileset 2_37
   - first:
-      213: 559219297722942035
-    second: factory_tileset_38
+      213: 3358569934699932735
+    second: factory_tileset 2_38
   - first:
-      213: -398879771851729729
-    second: factory_tileset_39
+      213: -4044466025909460015
+    second: factory_tileset 2_39
   - first:
-      213: -3280051071914469212
-    second: factory_tileset_40
+      213: -2358116212601644371
+    second: factory_tileset 2_40
   - first:
-      213: 9150658717082861753
-    second: factory_tileset_41
+      213: -2376272618636530705
+    second: factory_tileset 2_41
   - first:
-      213: -7879887747511633706
-    second: factory_tileset_42
+      213: 7921884567547215068
+    second: factory_tileset 2_42
   - first:
-      213: -4190222058632904268
-    second: factory_tileset_43
+      213: 1077455205130918149
+    second: factory_tileset 2_43
   - first:
-      213: 5971196977930839786
-    second: factory_tileset_44
+      213: -9161326388804188246
+    second: factory_tileset 2_44
   - first:
-      213: 1381585737029277405
-    second: factory_tileset_45
+      213: -6585617447565450252
+    second: factory_tileset 2_45
   - first:
-      213: 1597808690839672422
-    second: factory_tileset_46
+      213: 8762837943676740879
+    second: factory_tileset 2_46
   - first:
-      213: -2653761878477183931
-    second: factory_tileset_47
+      213: -9193824169108444642
+    second: factory_tileset 2_47
   - first:
-      213: 5095397421766442895
-    second: factory_tileset_48
+      213: 6724730891520779842
+    second: factory_tileset 2_48
   - first:
-      213: -5096404017718031792
-    second: factory_tileset_49
+      213: -4498331101637047475
+    second: factory_tileset 2_49
   - first:
-      213: -467432506767074012
-    second: factory_tileset_50
+      213: 7406631889418344107
+    second: factory_tileset 2_50
   - first:
-      213: -7025303891894853779
-    second: factory_tileset_51
+      213: 3255941859247912632
+    second: factory_tileset 2_51
   - first:
-      213: -6379175451628461735
-    second: factory_tileset_52
+      213: -3205601412379742987
+    second: factory_tileset 2_52
   - first:
-      213: 6301050405506264082
-    second: factory_tileset_53
+      213: -2460156178668270101
+    second: factory_tileset 2_53
   - first:
-      213: -6344441246855221822
-    second: factory_tileset_54
+      213: 5904954670921547487
+    second: factory_tileset 2_54
   - first:
-      213: -7888214696654458749
-    second: factory_tileset_55
+      213: 3818825088713034288
+    second: factory_tileset 2_55
   - first:
-      213: -623669843378665446
-    second: factory_tileset_56
+      213: -5732973992382958198
+    second: factory_tileset 2_56
   - first:
-      213: -5285906448648788817
-    second: factory_tileset_57
+      213: 2146189718147032989
+    second: factory_tileset 2_57
   - first:
-      213: -1820084492060254040
-    second: factory_tileset_58
+      213: 4643801368877155242
+    second: factory_tileset 2_58
   - first:
-      213: 7088214625244698612
-    second: factory_tileset_59
+      213: -7678168065030847836
+    second: factory_tileset 2_59
   - first:
-      213: -862933319636891247
-    second: factory_tileset_60
+      213: -3074921660546607908
+    second: factory_tileset 2_60
   - first:
-      213: 5378418508563256152
-    second: factory_tileset_61
+      213: -4532290305024482920
+    second: factory_tileset 2_61
   - first:
-      213: -5529616009494566388
-    second: factory_tileset_62
+      213: 8958117333115062488
+    second: factory_tileset 2_62
   - first:
-      213: -2876198492554342922
-    second: factory_tileset_63
+      213: -8722504335349054773
+    second: factory_tileset 2_63
   - first:
-      213: -4633843569475709964
-    second: factory_tileset_64
+      213: 2858025094314595154
+    second: factory_tileset 2_64
   - first:
-      213: 2911254120330043899
-    second: factory_tileset_65
+      213: -6136186326746355478
+    second: factory_tileset 2_65
   - first:
-      213: -508546962819602393
-    second: factory_tileset_66
+      213: 8180134445641066884
+    second: factory_tileset 2_66
   - first:
-      213: -7098623895578036562
-    second: factory_tileset_67
+      213: -3982293406015827425
+    second: factory_tileset 2_67
   - first:
-      213: 2843389629690744682
-    second: factory_tileset_68
+      213: -8482999225425703293
+    second: factory_tileset 2_68
   - first:
-      213: 7196595358108942144
-    second: factory_tileset_69
+      213: -4163306704513490232
+    second: factory_tileset 2_69
   - first:
-      213: -1246921664812870934
-    second: factory_tileset_70
+      213: -7736737172609751220
+    second: factory_tileset 2_70
   - first:
-      213: -2064925398628043144
-    second: factory_tileset_71
+      213: 6889725477893127398
+    second: factory_tileset 2_71
   - first:
-      213: -582308334711626046
-    second: factory_tileset_72
+      213: -4015241367971846581
+    second: factory_tileset 2_72
   - first:
-      213: 5931388755804837751
-    second: factory_tileset_73
+      213: -3153090630275328387
+    second: factory_tileset 2_73
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -315,24 +315,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: factory_tileset_0
+      name: factory_tileset 2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -347,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7456bd8edab131950800000000000000
-      internalID: 6418504327683073351
+      spriteID: e1a8ca0ddf3f6cff0800000000000000
+      internalID: -16057277195974114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_1
+      name: factory_tileset 2_1
       rect:
         serializedVersion: 2
         x: 705
@@ -369,14 +356,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf9e14a27a4cf2110800000000000000
-      internalID: 1238424644797721084
+      spriteID: 6151e4753c8b1a620800000000000000
+      internalID: 2783709193814545686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_2
+      name: factory_tileset 2_2
       rect:
         serializedVersion: 2
         x: 728
@@ -391,14 +378,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2abba69e80eb79670800000000000000
-      internalID: 8545507763443907490
+      spriteID: e55d5aece095265c0800000000000000
+      internalID: -4223715580388715170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_3
+      name: factory_tileset 2_3
       rect:
         serializedVersion: 2
         x: 736
@@ -413,14 +400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15b52a2a1b8040130800000000000000
-      internalID: 3531957566796094289
+      spriteID: 226e55310cec52ae0800000000000000
+      internalID: -1574625170342681054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_4
+      name: factory_tileset 2_4
       rect:
         serializedVersion: 2
         x: 759
@@ -435,14 +422,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7e45d86d57c8ce700800000000000000
-      internalID: 570985690507859175
+      spriteID: edb7aa1a3cd2aeda0800000000000000
+      internalID: -5914864842343547938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_5
+      name: factory_tileset 2_5
       rect:
         serializedVersion: 2
         x: 768
@@ -457,14 +444,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fde779d1986796e30800000000000000
-      internalID: 4497256034185215711
+      spriteID: 15b2845d3792e5870800000000000000
+      internalID: 8673415509838408529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_6
+      name: factory_tileset 2_6
       rect:
         serializedVersion: 2
         x: 784
@@ -479,14 +466,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c35e51a644da6c20800000000000000
-      internalID: 3200603885020271561
+      spriteID: 02be63ee22a7bfd00800000000000000
+      internalID: 1007533232091491104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_7
+      name: factory_tileset 2_7
       rect:
         serializedVersion: 2
         x: 800
@@ -501,14 +488,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 065319559b6d05800800000000000000
-      internalID: 599214841933149536
+      spriteID: 0c4cdfb11dbf2b5a0800000000000000
+      internalID: -6506861636060592960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_8
+      name: factory_tileset 2_8
       rect:
         serializedVersion: 2
         x: 816
@@ -523,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4f380c8694327e60800000000000000
-      internalID: 7958481312716177226
+      spriteID: f3c3e48ec4176d5f0800000000000000
+      internalID: -732273314272232385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_9
+      name: factory_tileset 2_9
       rect:
         serializedVersion: 2
         x: 705
@@ -545,14 +532,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb193a2bec9af45f0800000000000000
-      internalID: -770210306031644226
+      spriteID: 3fd063d5a5bfcc000800000000000000
+      internalID: 57697260778425843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_10
+      name: factory_tileset 2_10
       rect:
         serializedVersion: 2
         x: 728
@@ -567,14 +554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b5d2c2d9967c5b10800000000000000
-      internalID: 1971581139919492533
+      spriteID: 2bd7efb188fcb5f80800000000000000
+      internalID: -8116665719913022030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_11
+      name: factory_tileset 2_11
       rect:
         serializedVersion: 2
         x: 736
@@ -589,14 +576,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7911f572dea7aafb0800000000000000
-      internalID: -4635757707438124649
+      spriteID: 5a58343edea39c820800000000000000
+      internalID: 2938945025230472613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_12
+      name: factory_tileset 2_12
       rect:
         serializedVersion: 2
         x: 759
@@ -611,14 +598,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cddf88c800b7c9030800000000000000
-      internalID: 3502809852475407836
+      spriteID: 87bdc832da2c2e090800000000000000
+      internalID: -8006623138629756040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_13
+      name: factory_tileset 2_13
       rect:
         serializedVersion: 2
         x: 769
@@ -633,14 +620,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57865d1da8a696190800000000000000
-      internalID: -7968720921196926859
+      spriteID: e7cb0f5a7ce2dc180800000000000000
+      internalID: -9093560637573776258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_14
+      name: factory_tileset 2_14
       rect:
         serializedVersion: 2
         x: 785
@@ -655,14 +642,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b76016c7bb222ff0800000000000000
-      internalID: -62439376527792202
+      spriteID: fb78b93653b232a20800000000000000
+      internalID: 3036318082082244543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_15
+      name: factory_tileset 2_15
       rect:
         serializedVersion: 2
         x: 801
@@ -677,14 +664,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a6ac27bceefaa3c0800000000000000
-      internalID: -4347382197633898841
+      spriteID: 9fd075169b81242c0800000000000000
+      internalID: -4448966297407517191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_16
+      name: factory_tileset 2_16
       rect:
         serializedVersion: 2
         x: 705
@@ -699,14 +686,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88398c1b4018c7ab0800000000000000
-      internalID: -5008986828380269688
+      spriteID: 57209d01b66489770800000000000000
+      internalID: 8617715312631546485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_17
+      name: factory_tileset 2_17
       rect:
         serializedVersion: 2
         x: 728
@@ -721,14 +708,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c7c64a2e992f7430800000000000000
-      internalID: 3782787971305359299
+      spriteID: 1c989ad2489b44270800000000000000
+      internalID: 8233909996093016513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_18
+      name: factory_tileset 2_18
       rect:
         serializedVersion: 2
         x: 736
@@ -743,14 +730,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 294eba464ef0f8540800000000000000
-      internalID: 5012242383902598290
+      spriteID: ca4654277c63dd7c0800000000000000
+      internalID: -4045016660065295188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_19
+      name: factory_tileset 2_19
       rect:
         serializedVersion: 2
         x: 759
@@ -765,14 +752,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ffbcc221a07136d0800000000000000
-      internalID: -3012502838358261772
+      spriteID: f440df2d2be51dc30800000000000000
+      internalID: 4382388034545189967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_20
+      name: factory_tileset 2_20
       rect:
         serializedVersion: 2
         x: 705
@@ -787,14 +774,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fdc9b41c1397e4740800000000000000
-      internalID: 5138177479479631071
+      spriteID: ff0ceb69cb8e9a260800000000000000
+      internalID: 7109469383461617919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_21
+      name: factory_tileset 2_21
       rect:
         serializedVersion: 2
         x: 728
@@ -809,14 +796,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 92f0d03afff2c6f30800000000000000
-      internalID: 4570080496872918825
+      spriteID: cf781418a0720b720800000000000000
+      internalID: 2859828689451976700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_22
+      name: factory_tileset 2_22
       rect:
         serializedVersion: 2
         x: 736
@@ -831,14 +818,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1d7b77cbe41c7700800000000000000
-      internalID: 539329058274245918
+      spriteID: fbf800df0dbd32e70800000000000000
+      internalID: 9089350163608145855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_23
+      name: factory_tileset 2_23
       rect:
         serializedVersion: 2
         x: 759
@@ -853,14 +840,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69b22183e883e4100800000000000000
-      internalID: 94074825698585494
+      spriteID: 9d53f5eec0ea8d7c0800000000000000
+      internalID: -4046292894630332967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_24
+      name: factory_tileset 2_24
       rect:
         serializedVersion: 2
         x: 768
@@ -875,14 +862,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 446d99b24364adad0800000000000000
-      internalID: -2676749838634592700
+      spriteID: 53064f7eee01ba6a0800000000000000
+      internalID: -6437032624116178891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_25
+      name: factory_tileset 2_25
       rect:
         serializedVersion: 2
         x: 784
@@ -897,14 +884,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a0e00ad6949ae6d0800000000000000
-      internalID: -2960390429419183960
+      spriteID: 855580bbc1f2ec820800000000000000
+      internalID: 2940339407162987864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_26
+      name: factory_tileset 2_26
       rect:
         serializedVersion: 2
         x: 809
@@ -919,14 +906,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 242a991515896afc0800000000000000
-      internalID: -3483929786695703998
+      spriteID: 68215632c27d63350800000000000000
+      internalID: 5996216538462753414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_27
+      name: factory_tileset 2_27
       rect:
         serializedVersion: 2
         x: 816
@@ -941,14 +928,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66abf796442e6d890800000000000000
-      internalID: -7433505351472792986
+      spriteID: ac9ae0691c984feb0800000000000000
+      internalID: -4686969847646606902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_28
+      name: factory_tileset 2_28
       rect:
         serializedVersion: 2
         x: 705
@@ -963,14 +950,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e93eccaf86a6f50d0800000000000000
-      internalID: -3431907391916153954
+      spriteID: 80cab2737c6308c10800000000000000
+      internalID: 2053701659332946952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_29
+      name: factory_tileset 2_29
       rect:
         serializedVersion: 2
         x: 728
@@ -985,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5f77b59b9de3d5b0800000000000000
-      internalID: -5344667080271102114
+      spriteID: 12a9d248c07d127b0800000000000000
+      internalID: -5250679241780127199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_30
+      name: factory_tileset 2_30
       rect:
         serializedVersion: 2
         x: 737
@@ -1007,14 +994,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f48492e4e1e6d810800000000000000
-      internalID: 1789866275096528117
+      spriteID: 7da7620259d0c0f10800000000000000
+      internalID: 2237178049036974807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_31
+      name: factory_tileset 2_31
       rect:
         serializedVersion: 2
         x: 756
@@ -1029,14 +1016,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ca4f8af91cd30690800000000000000
-      internalID: -7637018538954241338
+      spriteID: fa90a2bedc8a467c0800000000000000
+      internalID: -4078949760123663953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_32
+      name: factory_tileset 2_32
       rect:
         serializedVersion: 2
         x: 767
@@ -1051,14 +1038,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3505e954ea1d0d1b0800000000000000
-      internalID: -5633772587417972653
+      spriteID: 9d49c49e0b5cc4d50800000000000000
+      internalID: 6722965707376334041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_33
+      name: factory_tileset 2_33
       rect:
         serializedVersion: 2
         x: 787
@@ -1073,14 +1060,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a150d3ea58c8ef4b0800000000000000
-      internalID: -5404727997016242918
+      spriteID: e5f7d6303872346e0800000000000000
+      internalID: -1854595177894805666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_34
+      name: factory_tileset 2_34
       rect:
         serializedVersion: 2
         x: 801
@@ -1095,14 +1082,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f5b214a7a38bcc10800000000000000
-      internalID: 2074896809369712119
+      spriteID: ae902dda4b29c73c0800000000000000
+      internalID: -4360449034493490710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_35
+      name: factory_tileset 2_35
       rect:
         serializedVersion: 2
         x: 817
@@ -1117,14 +1104,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68e030350ab70b2b0800000000000000
-      internalID: -5570816810539610490
+      spriteID: 5511db17ccf900400800000000000000
+      internalID: 288406076582072661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_36
+      name: factory_tileset 2_36
       rect:
         serializedVersion: 2
         x: 705
@@ -1139,14 +1126,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 633fc31781c644c80800000000000000
-      internalID: -8339421757748481226
+      spriteID: 9c1d32e7392aeaee0800000000000000
+      internalID: -1247881292374879799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_37
+      name: factory_tileset 2_37
       rect:
         serializedVersion: 2
         x: 728
@@ -1161,14 +1148,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 026d0896d647b1ea0800000000000000
-      internalID: -5900994873468594656
+      spriteID: 679ac76074034cf50800000000000000
+      internalID: 6900693610648086902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_38
+      name: factory_tileset 2_38
       rect:
         serializedVersion: 2
         x: 737
@@ -1183,14 +1170,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 352c1580dfeb2c700800000000000000
-      internalID: 559219297722942035
+      spriteID: f3ca817af890c9e20800000000000000
+      internalID: 3358569934699932735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_39
+      name: factory_tileset 2_39
       rect:
         serializedVersion: 2
         x: 756
@@ -1205,14 +1192,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb450baf5f4e67af0800000000000000
-      internalID: -398879771851729729
+      spriteID: 1d3e783f39b2fd7c0800000000000000
+      internalID: -4044466025909460015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_40
+      name: factory_tileset 2_40
       rect:
         serializedVersion: 2
         x: 767
@@ -1227,14 +1214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a81665bdeaea72d0800000000000000
-      internalID: -3280051071914469212
+      spriteID: daa1ac86cc9464fd0800000000000000
+      internalID: -2358116212601644371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_41
+      name: factory_tileset 2_41
       rect:
         serializedVersion: 2
         x: 771
@@ -1249,14 +1236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b04e84fe9badfe70800000000000000
-      internalID: 9150658717082861753
+      spriteID: febaea4b4a8c50fd0800000000000000
+      internalID: -2376272618636530705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_42
+      name: factory_tileset 2_42
       rect:
         serializedVersion: 2
         x: 801
@@ -1271,14 +1258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d8bd93d7d305a290800000000000000
-      internalID: -7879887747511633706
+      spriteID: cdcfc40da0030fd60800000000000000
+      internalID: 7921884567547215068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_43
+      name: factory_tileset 2_43
       rect:
         serializedVersion: 2
         x: 813
@@ -1293,14 +1280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b10e290d3759d5c0800000000000000
-      internalID: -4190222058632904268
+      spriteID: 509593becc3e3fe00800000000000000
+      internalID: 1077455205130918149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_44
+      name: factory_tileset 2_44
       rect:
         serializedVersion: 2
         x: 705
@@ -1315,14 +1302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae62471c304fdd250800000000000000
-      internalID: 5971196977930839786
+      spriteID: aa70aeb203e6cd080800000000000000
+      internalID: -9161326388804188246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_45
+      name: factory_tileset 2_45
       rect:
         serializedVersion: 2
         x: 705
@@ -1337,14 +1324,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd6506a68e06c2310800000000000000
-      internalID: 1381585737029277405
+      spriteID: 4f32f33d2df2b94a0800000000000000
+      internalID: -6585617447565450252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_46
+      name: factory_tileset 2_46
       rect:
         serializedVersion: 2
         x: 728
@@ -1359,14 +1346,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 666d78ce98e8c2610800000000000000
-      internalID: 1597808690839672422
+      spriteID: f05aa29aeaadb9970800000000000000
+      internalID: 8762837943676740879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_47
+      name: factory_tileset 2_47
       rect:
         serializedVersion: 2
         x: 728
@@ -1381,14 +1368,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 544e4eab1a1fb2bd0800000000000000
-      internalID: -2653761878477183931
+      spriteID: e1ae3e011a9f86080800000000000000
+      internalID: -9193824169108444642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_48
+      name: factory_tileset 2_48
       rect:
         serializedVersion: 2
         x: 705
@@ -1403,14 +1390,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8f74d165fc76b640800000000000000
-      internalID: 5095397421766442895
+      spriteID: 246213fdd1b035d50800000000000000
+      internalID: 6724730891520779842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_49
+      name: factory_tileset 2_49
       rect:
         serializedVersion: 2
         x: 728
@@ -1425,14 +1412,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05a0b0c3c8fe549b0800000000000000
-      internalID: -5096404017718031792
+      spriteID: d4b05dc32b7b291c0800000000000000
+      internalID: -4498331101637047475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_50
+      name: factory_tileset 2_50
       rect:
         serializedVersion: 2
         x: 705
@@ -1447,14 +1434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42d9da59c985389f0800000000000000
-      internalID: -467432506767074012
+      spriteID: ba65cde1674a9c660800000000000000
+      internalID: 7406631889418344107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_51
+      name: factory_tileset 2_51
       rect:
         serializedVersion: 2
         x: 728
@@ -1469,14 +1456,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d6f107cf45b118e90800000000000000
-      internalID: -7025303891894853779
+      spriteID: 8b6fbc9cedd6f2d20800000000000000
+      internalID: 3255941859247912632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_52
+      name: factory_tileset 2_52
       rect:
         serializedVersion: 2
         x: 705
@@ -1491,14 +1478,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9512bcd99bd9877a0800000000000000
-      internalID: -6379175451628461735
+      spriteID: 5fc6d9bdf7a6383d0800000000000000
+      internalID: -3205601412379742987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_53
+      name: factory_tileset 2_53
       rect:
         serializedVersion: 2
         x: 705
@@ -1513,14 +1500,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21c280c95f3d17750800000000000000
-      internalID: 6301050405506264082
+      spriteID: bedce7e6df4cbddd0800000000000000
+      internalID: -2460156178668270101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_54
+      name: factory_tileset 2_54
       rect:
         serializedVersion: 2
         x: 728
@@ -1535,14 +1522,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2cdabdedc4404f7a0800000000000000
-      internalID: -6344441246855221822
+      spriteID: fdeff07ccfc92f150800000000000000
+      internalID: 5904954670921547487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_55
+      name: factory_tileset 2_55
       rect:
         serializedVersion: 2
         x: 728
@@ -1557,14 +1544,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38035e5e68e678290800000000000000
-      internalID: -7888214696654458749
+      spriteID: 03a07186f213ff430800000000000000
+      internalID: 3818825088713034288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_56
+      name: factory_tileset 2_56
       rect:
         serializedVersion: 2
         x: 671
@@ -1579,14 +1566,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a188a40f4974857f0800000000000000
-      internalID: -623669843378665446
+      spriteID: a85f57d47826070b0800000000000000
+      internalID: -5732973992382958198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_57
+      name: factory_tileset 2_57
       rect:
         serializedVersion: 2
         x: 719
@@ -1601,14 +1588,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa4a7544710b4a6b0800000000000000
-      internalID: -5285906448648788817
+      spriteID: d97efba7d2cc8cd10800000000000000
+      internalID: 2146189718147032989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_58
+      name: factory_tileset 2_58
       rect:
         serializedVersion: 2
         x: 691
@@ -1623,14 +1610,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a02d853cc2cdb6e0800000000000000
-      internalID: -1820084492060254040
+      spriteID: aa34567bdb8127040800000000000000
+      internalID: 4643801368877155242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_59
+      name: factory_tileset 2_59
       rect:
         serializedVersion: 2
         x: 705
@@ -1645,14 +1632,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f7507d85a56e5260800000000000000
-      internalID: 7088214625244698612
+      spriteID: 4a2861653daa17590800000000000000
+      internalID: -7678168065030847836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_60
+      name: factory_tileset 2_60
       rect:
         serializedVersion: 2
         x: 721
@@ -1667,14 +1654,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 199c132c7be3604f0800000000000000
-      internalID: -862933319636891247
+      spriteID: cd417f69a0fa355d0800000000000000
+      internalID: -3074921660546607908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_61
+      name: factory_tileset 2_61
       rect:
         serializedVersion: 2
         x: 737
@@ -1689,14 +1676,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8539c40332bf3aa40800000000000000
-      internalID: 5378418508563256152
+      spriteID: 891a11e0bf11a11c0800000000000000
+      internalID: -4532290305024482920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_62
+      name: factory_tileset 2_62
       rect:
         serializedVersion: 2
         x: 753
@@ -1711,14 +1698,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0a63c9598bd243b0800000000000000
-      internalID: -5529616009494566388
+      spriteID: 8d8c7989040a15c70800000000000000
+      internalID: 8958117333115062488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_63
+      name: factory_tileset 2_63
       rect:
         serializedVersion: 2
         x: 703
@@ -1733,14 +1720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6fdc8c3b5b0b518d0800000000000000
-      internalID: -2876198492554342922
+      spriteID: bc207b3558073f680800000000000000
+      internalID: -8722504335349054773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_64
+      name: factory_tileset 2_64
       rect:
         serializedVersion: 2
         x: 719
@@ -1755,14 +1742,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f31ca023d741bfb0800000000000000
-      internalID: -4633843569475709964
+      spriteID: 25316c94eaeb9a720800000000000000
+      internalID: 2858025094314595154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_65
+      name: factory_tileset 2_65
       rect:
         serializedVersion: 2
         x: 735
@@ -1777,14 +1764,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf12a2da23ad66820800000000000000
-      internalID: 2911254120330043899
+      spriteID: ae8aca6fb03e7daa0800000000000000
+      internalID: -6136186326746355478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_66
+      name: factory_tileset 2_66
       rect:
         serializedVersion: 2
         x: 751
@@ -1799,14 +1786,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 728a8815b3741f8f0800000000000000
-      internalID: -508546962819602393
+      spriteID: 4896f5720fca58170800000000000000
+      internalID: 8180134445641066884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_67
+      name: factory_tileset 2_67
       rect:
         serializedVersion: 2
         x: 707
@@ -1821,14 +1808,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ea6b8f55d2f9c7d90800000000000000
-      internalID: -7098623895578036562
+      spriteID: f12db0f0f3d0cb8c0800000000000000
+      internalID: -3982293406015827425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_68
+      name: factory_tileset 2_68
       rect:
         serializedVersion: 2
         x: 723
@@ -1843,14 +1830,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6f0fb3adcfb57720800000000000000
-      internalID: 2843389629690744682
+      spriteID: 38e469a3625564a80800000000000000
+      internalID: -8482999225425703293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_69
+      name: factory_tileset 2_69
       rect:
         serializedVersion: 2
         x: 739
@@ -1865,14 +1852,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04ffe4859517fd360800000000000000
-      internalID: 7196595358108942144
+      spriteID: 8c2a8724c96f836c0800000000000000
+      internalID: -4163306704513490232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_70
+      name: factory_tileset 2_70
       rect:
         serializedVersion: 2
         x: 755
@@ -1887,14 +1874,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae217123a5b02bee0800000000000000
-      internalID: -1246921664812870934
+      spriteID: c472902588691a490800000000000000
+      internalID: -7736737172609751220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_71
+      name: factory_tileset 2_71
       rect:
         serializedVersion: 2
         x: 704
@@ -1909,14 +1896,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 876f7175a49e753e0800000000000000
-      internalID: -2064925398628043144
+      spriteID: 6ec37cd91d83d9f50800000000000000
+      internalID: 6889725477893127398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_72
+      name: factory_tileset 2_72
       rect:
         serializedVersion: 2
         x: 719
@@ -1931,14 +1918,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c6a3cf97a93be7f0800000000000000
-      internalID: -582308334711626046
+      spriteID: b46a59edf3ff648c0800000000000000
+      internalID: -4015241367971846581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: factory_tileset_73
+      name: factory_tileset 2_73
       rect:
         serializedVersion: 2
         x: 707
@@ -1953,8 +1940,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7775e76c5a6805250800000000000000
-      internalID: 5931388755804837751
+      spriteID: d7693dd07c8fd34d0800000000000000
+      internalID: -3153090630275328387
       vertices: []
       indices: 
       edges: []
@@ -1972,81 +1959,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      factory_tileset_0: 6418504327683073351
-      factory_tileset_1: 1238424644797721084
-      factory_tileset_10: 1971581139919492533
-      factory_tileset_11: -4635757707438124649
-      factory_tileset_12: 3502809852475407836
-      factory_tileset_13: -7968720921196926859
-      factory_tileset_14: -62439376527792202
-      factory_tileset_15: -4347382197633898841
-      factory_tileset_16: -5008986828380269688
-      factory_tileset_17: 3782787971305359299
-      factory_tileset_18: 5012242383902598290
-      factory_tileset_19: -3012502838358261772
-      factory_tileset_2: 8545507763443907490
-      factory_tileset_20: 5138177479479631071
-      factory_tileset_21: 4570080496872918825
-      factory_tileset_22: 539329058274245918
-      factory_tileset_23: 94074825698585494
-      factory_tileset_24: -2676749838634592700
-      factory_tileset_25: -2960390429419183960
-      factory_tileset_26: -3483929786695703998
-      factory_tileset_27: -7433505351472792986
-      factory_tileset_28: -3431907391916153954
-      factory_tileset_29: -5344667080271102114
-      factory_tileset_3: 3531957566796094289
-      factory_tileset_30: 1789866275096528117
-      factory_tileset_31: -7637018538954241338
-      factory_tileset_32: -5633772587417972653
-      factory_tileset_33: -5404727997016242918
-      factory_tileset_34: 2074896809369712119
-      factory_tileset_35: -5570816810539610490
-      factory_tileset_36: -8339421757748481226
-      factory_tileset_37: -5900994873468594656
-      factory_tileset_38: 559219297722942035
-      factory_tileset_39: -398879771851729729
-      factory_tileset_4: 570985690507859175
-      factory_tileset_40: -3280051071914469212
-      factory_tileset_41: 9150658717082861753
-      factory_tileset_42: -7879887747511633706
-      factory_tileset_43: -4190222058632904268
-      factory_tileset_44: 5971196977930839786
-      factory_tileset_45: 1381585737029277405
-      factory_tileset_46: 1597808690839672422
-      factory_tileset_47: -2653761878477183931
-      factory_tileset_48: 5095397421766442895
-      factory_tileset_49: -5096404017718031792
-      factory_tileset_5: 4497256034185215711
-      factory_tileset_50: -467432506767074012
-      factory_tileset_51: -7025303891894853779
-      factory_tileset_52: -6379175451628461735
-      factory_tileset_53: 6301050405506264082
-      factory_tileset_54: -6344441246855221822
-      factory_tileset_55: -7888214696654458749
-      factory_tileset_56: -623669843378665446
-      factory_tileset_57: -5285906448648788817
-      factory_tileset_58: -1820084492060254040
-      factory_tileset_59: 7088214625244698612
-      factory_tileset_6: 3200603885020271561
-      factory_tileset_60: -862933319636891247
-      factory_tileset_61: 5378418508563256152
-      factory_tileset_62: -5529616009494566388
-      factory_tileset_63: -2876198492554342922
-      factory_tileset_64: -4633843569475709964
-      factory_tileset_65: 2911254120330043899
-      factory_tileset_66: -508546962819602393
-      factory_tileset_67: -7098623895578036562
-      factory_tileset_68: 2843389629690744682
-      factory_tileset_69: 7196595358108942144
-      factory_tileset_7: 599214841933149536
-      factory_tileset_70: -1246921664812870934
-      factory_tileset_71: -2064925398628043144
-      factory_tileset_72: -582308334711626046
-      factory_tileset_73: 5931388755804837751
-      factory_tileset_8: 7958481312716177226
-      factory_tileset_9: -770210306031644226
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
