@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5589595356606136272}
   - component: {fileID: 9141155545550017493}
   - component: {fileID: 3858825605097911535}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Gunner
   m_TagString: Gunner
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerRole: 0
-  moveSpeed: 8
+  moveSpeed: 10
   leftKey: 97
   rightKey: 100
   upKey: 119
@@ -113,9 +113,9 @@ MonoBehaviour:
   mine: {fileID: 7482778669241106542, guid: 84e9fbd76bdc26c46bc58dff43cab64e, type: 3}
   bullet: {fileID: 8722180274604801152, guid: eaa59f8043b8afba3b79c450604d5243, type: 3}
   plantOffset: 1.5
-  bulletSpeed: 500
+  bulletSpeed: 150
   plantTime: 0
-  reloadTime: 0.05
+  reloadTime: 0.5
 --- !u!50 &9141155545550017493
 Rigidbody2D:
   serializedVersion: 5
@@ -191,7 +191,7 @@ GameObject:
   - component: {fileID: 7771203948007101630}
   - component: {fileID: 9047199220847583437}
   - component: {fileID: 8637008057506209072}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}

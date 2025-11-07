@@ -315,6 +315,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1959,7 +1972,81 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      factory_tileset 2_0: -16057277195974114
+      factory_tileset 2_1: 2783709193814545686
+      factory_tileset 2_10: -8116665719913022030
+      factory_tileset 2_11: 2938945025230472613
+      factory_tileset 2_12: -8006623138629756040
+      factory_tileset 2_13: -9093560637573776258
+      factory_tileset 2_14: 3036318082082244543
+      factory_tileset 2_15: -4448966297407517191
+      factory_tileset 2_16: 8617715312631546485
+      factory_tileset 2_17: 8233909996093016513
+      factory_tileset 2_18: -4045016660065295188
+      factory_tileset 2_19: 4382388034545189967
+      factory_tileset 2_2: -4223715580388715170
+      factory_tileset 2_20: 7109469383461617919
+      factory_tileset 2_21: 2859828689451976700
+      factory_tileset 2_22: 9089350163608145855
+      factory_tileset 2_23: -4046292894630332967
+      factory_tileset 2_24: -6437032624116178891
+      factory_tileset 2_25: 2940339407162987864
+      factory_tileset 2_26: 5996216538462753414
+      factory_tileset 2_27: -4686969847646606902
+      factory_tileset 2_28: 2053701659332946952
+      factory_tileset 2_29: -5250679241780127199
+      factory_tileset 2_3: -1574625170342681054
+      factory_tileset 2_30: 2237178049036974807
+      factory_tileset 2_31: -4078949760123663953
+      factory_tileset 2_32: 6722965707376334041
+      factory_tileset 2_33: -1854595177894805666
+      factory_tileset 2_34: -4360449034493490710
+      factory_tileset 2_35: 288406076582072661
+      factory_tileset 2_36: -1247881292374879799
+      factory_tileset 2_37: 6900693610648086902
+      factory_tileset 2_38: 3358569934699932735
+      factory_tileset 2_39: -4044466025909460015
+      factory_tileset 2_4: -5914864842343547938
+      factory_tileset 2_40: -2358116212601644371
+      factory_tileset 2_41: -2376272618636530705
+      factory_tileset 2_42: 7921884567547215068
+      factory_tileset 2_43: 1077455205130918149
+      factory_tileset 2_44: -9161326388804188246
+      factory_tileset 2_45: -6585617447565450252
+      factory_tileset 2_46: 8762837943676740879
+      factory_tileset 2_47: -9193824169108444642
+      factory_tileset 2_48: 6724730891520779842
+      factory_tileset 2_49: -4498331101637047475
+      factory_tileset 2_5: 8673415509838408529
+      factory_tileset 2_50: 7406631889418344107
+      factory_tileset 2_51: 3255941859247912632
+      factory_tileset 2_52: -3205601412379742987
+      factory_tileset 2_53: -2460156178668270101
+      factory_tileset 2_54: 5904954670921547487
+      factory_tileset 2_55: 3818825088713034288
+      factory_tileset 2_56: -5732973992382958198
+      factory_tileset 2_57: 2146189718147032989
+      factory_tileset 2_58: 4643801368877155242
+      factory_tileset 2_59: -7678168065030847836
+      factory_tileset 2_6: 1007533232091491104
+      factory_tileset 2_60: -3074921660546607908
+      factory_tileset 2_61: -4532290305024482920
+      factory_tileset 2_62: 8958117333115062488
+      factory_tileset 2_63: -8722504335349054773
+      factory_tileset 2_64: 2858025094314595154
+      factory_tileset 2_65: -6136186326746355478
+      factory_tileset 2_66: 8180134445641066884
+      factory_tileset 2_67: -3982293406015827425
+      factory_tileset 2_68: -8482999225425703293
+      factory_tileset 2_69: -4163306704513490232
+      factory_tileset 2_7: -6506861636060592960
+      factory_tileset 2_70: -7736737172609751220
+      factory_tileset 2_71: 6889725477893127398
+      factory_tileset 2_72: -4015241367971846581
+      factory_tileset 2_73: -3153090630275328387
+      factory_tileset 2_8: -732273314272232385
+      factory_tileset 2_9: 57697260778425843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

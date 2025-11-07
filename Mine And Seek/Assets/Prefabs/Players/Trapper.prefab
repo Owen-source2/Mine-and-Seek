@@ -247,6 +247,12 @@ MonoBehaviour:
   upKey: 273
   downKey: 274
   fire: 0
+  mine: {fileID: 7482778669241106542, guid: 84e9fbd76bdc26c46bc58dff43cab64e, type: 3}
+  bullet: {fileID: 8722180274604801152, guid: eaa59f8043b8afba3b79c450604d5243, type: 3}
+  plantOffset: 1.5
+  bulletSpeed: 150
+  plantTime: 0
+  reloadTime: 0
 --- !u!50 &5277515490907633906
 Rigidbody2D:
   serializedVersion: 5
